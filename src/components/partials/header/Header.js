@@ -8,6 +8,7 @@ import { CiSearch } from 'react-icons/ci';
 
 const Header = () => (
   <header>
+    hello hearder
     <div>
       <div><RiGridFill /></div>
       <div><RxHamburgerMenu /></div>
